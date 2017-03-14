@@ -12,7 +12,7 @@ https://befeeter.github.io/
 
 # Daniel López Morales
 Mi usuario de GitHub es @daniellopezmorales y puedes encontrar mi pagina de la asignatura en el siguiente enlace:
-link (https://daniellopezmorales.github.io/hmis-repo01/)
+[daniellopezmorales]link(https://daniellopezmorales.github.io/hmis-repo01/)
 
 ## Repositorios Disponibles
 En este apartado encontraras un enlace y una breve descripción a todos los respositorios que vayamos creando a lo largo de la asignatura.
