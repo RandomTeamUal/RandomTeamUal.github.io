@@ -8,7 +8,7 @@ Esta Organización sin animo de lucro, de momento, ha sido creada para la asigna
 # Jorge Martínez Carvajal
 
 Mi usuario de GitHub es @Befeeter y puedes encontrar mi pagina en el siguiente enlace:
-https://befeeter.github.io/
+[link](https://befeeter.github.io/) ![image](\Resources\Images\Befeeter.jpg)
 
 # Daniel López Morales
 Mi usuario de GitHub es @daniellopezmorales y puedes encontrar mi pagina de la asignatura en el siguiente enlace:
