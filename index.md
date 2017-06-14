@@ -20,3 +20,5 @@ En este apartado encontraras un enlace y una breve descripción a todos los resp
 
 Otro enlaces:
 Documentación Pull Request: [Pull Request](https://help.github.com/articles/creating-a-pull-request/)
+
+SCV Distribuido: Baazar [Instalación Bazaar](http://librosweb.es/libro/python/capitulo_1/instalacion_de_bazaar.html)
