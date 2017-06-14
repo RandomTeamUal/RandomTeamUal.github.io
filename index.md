@@ -19,4 +19,5 @@ GitLab: [daniellopezmorales](http://192.168.66.238/dlm326)
 En este apartado encontraras un enlace y una breve descripción a todos los respositorios que vayamos creando a lo largo de la asignatura.
 
 Otro enlaces:
+Como actualizar un repositorio forkeado con las actualizaciones del repositorio original: [Update Fork](http://community.logicalbricks.com/node/217)
 Documentación Pull Request: [Pull Request](https://help.github.com/articles/creating-a-pull-request/)
